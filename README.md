@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋
+I am a 16 year old kid (he/him) from Australia and I code things sometimes. I don't want anyone to see my horrible code so everything I make is private. But I code in JavaScript, utilising the MERN stack. I program a lot of demo ideas I have. Mainly Discord bots or web apps.
 
-<!--
-**InBlue/InBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 What am I currently working on?
+I am currently working on three main projects. 
 
-Here are some ideas to get you started:
+### A Discord music bot
+Using the discord.js framework for the bot itself while using Reactjs for the frontend and express.js / socket.io for the backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### School projects
+Due to limitations set within the school, I am not able to use the MERN stack for any of my school projects. I am instructed to use PHP in conjunction with MySQL. The difference between what I am use to, using the MERN stack and PHP was quite a shock, having all the backend and frontend in the same file is possible and that was weird to adjust to.
+
+### Seceret project 😳
+I can't say much about this, however it uses the MERN stack and is being made for someone specific.
+
+## 🌱 I’m currently learning
+I am new to use Reactjs for my frontend projects. I am liking it a lot right now though I believe that there are some features and elements that I am missing out on or don't understand fully.
+
+## 📫 How to reach me
+You can find me on Discord, adding me as a friend at InBlue#0001. Alternatively you can DM on twitter, @InBlueAU.
