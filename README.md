@@ -10,7 +10,7 @@ Using the discord.js framework for the bot itself while using Reactjs for the fr
 ### School projects
 Due to limitations set within the school, I am not able to use the MERN stack for any of my school projects. I am instructed to use PHP in conjunction with MySQL. The difference between what I am use to, using the MERN stack and PHP was quite a shock, having all the backend and frontend in the same file is possible and that was weird to adjust to.
 
-### Seceret project 😳
+### Secret project 😳
 I can't say much about this, however it uses the MERN stack and is being made for someone specific.
 
 ## 🌱 I’m currently learning
