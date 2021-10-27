@@ -7,9 +7,9 @@ I am an 18 year old kid (he/him) from Australia, I code things mostly for fun, t
 I am the current frontend developer working with the Dank Memer Discord bot website. It is great to work on something such as this, the people around me are all amazing which obviously makes it a whole lot better!
 
 ## 🌱 I’m currently
-• Learning the ins and outs of tailwindcss
-• Experimenting heavily with Next.js
-• Looking into usage of serverless functions in what I make!
+* Learning the ins and outs of tailwindcss
+* Experimenting heavily with Next.js
+* Looking into usage of serverless functions in what I make!
 
 ## 📫 How to reach me
 Please do not.
