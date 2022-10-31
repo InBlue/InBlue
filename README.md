@@ -1,5 +1,5 @@
 # Hi there 👋
-I am an 18 year old kid (he/him) from Australia, I code things mostly for fun, though I do wish to continue programming as a career. I don't want anyone to see my horrible code so everything I make is private. I code in JavaScript, utilising the MERN stack. I program a lot of demo ideas I have. Mainly Discord bots or web apps.
+I am an 19 year old kid (he/him) from Australia, I code things mostly for fun, though I do wish to continue programming as a career. I don't want anyone to see my horrible code so everything I make is private. I code in JavaScript, utilising the MERN stack. I program a lot of demo ideas I have. Mainly Discord bots or web apps.
 
 ## 🔭 What am I currently working on?
 
